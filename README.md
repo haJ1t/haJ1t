@@ -1,12 +1,18 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Halit Ozger — Full Stack Developer and AI/ML Engineer. Intelligent systems. Useful products.">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
+    <img src="assets/profile-hero.svg" alt="Halit Ozger — Full Stack Developer and AI/ML Engineer. Intelligent systems. Useful products.">
+  </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+intelligent+systems.;Crafting+useful+products.;Engineering+the+space+between+AI+and+people.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+intelligent+systems.;Crafting+useful+products.;Engineering+the+space+between+AI+and+people.">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=6D28D9&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+intelligent+systems.;Crafting+useful+products.;Engineering+the+space+between+AI+and+people." alt="Building intelligent systems, crafting useful products, and engineering the space between AI and people">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-tagline.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1000&amp;color=818CF8&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=340&amp;height=45&amp;lines=Intelligent+systems.;Useful+products.;AI%2C+with+people+in+mind.">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1000&amp;color=6D28D9&amp;background=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=340&amp;height=45&amp;lines=Intelligent+systems.;Useful+products.;AI%2C+with+people+in+mind.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=818CF8&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+intelligent+systems.;Crafting+useful+products.;Engineering+the+space+between+AI+and+people.">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=6D28D9&amp;background=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+intelligent+systems.;Crafting+useful+products.;Engineering+the+space+between+AI+and+people.">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=6D28D9&amp;background=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+intelligent+systems.;Crafting+useful+products.;Engineering+the+space+between+AI+and+people." alt="Building intelligent systems, crafting useful products, and engineering the space between AI and people">
   </picture>
 </p>
 
@@ -79,9 +85,9 @@ A full-stack analysis prototype that turns StatsBomb event data into pass networ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haJ1t&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=00000000&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=22D3EE">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haJ1t&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=00000000&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2">
-    <img src="https://github-readme-stats.vercel.app/api?username=haJ1t&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=00000000&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2" alt="Halit Ozger's GitHub contribution statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haJ1t&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=A5B4FC&amp;text_color=CBD5E1&amp;icon_color=22D3EE">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haJ1t&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=FFFFFF&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2">
+    <img src="https://github-readme-stats.vercel.app/api?username=haJ1t&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=FFFFFF&amp;title_color=6D28D9&amp;text_color=334155&amp;icon_color=0891B2" alt="Halit Ozger's GitHub contribution statistics">
   </picture>
 </p>
 

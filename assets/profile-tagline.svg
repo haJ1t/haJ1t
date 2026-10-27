@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-labelledby="title desc">
-  <title id="title">Intelligent systems. Useful products.</title>
-  <desc id="desc">A static high-contrast tagline for visitors who prefer reduced motion.</desc>
-  <rect width="360" height="64" rx="16" fill="#0D1117"/>
-  <rect x="1" y="1" width="358" height="62" rx="15" fill="none" stroke="#818CF8" stroke-opacity="0.35"/>
-  <text x="180" y="38" text-anchor="middle" font-family="Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" font-weight="500" fill="#A5B4FC">Intelligent systems. Useful products.</text>
-</svg>

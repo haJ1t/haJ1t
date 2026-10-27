@@ -27,9 +27,9 @@
 
 ## Engineering across the stack
 
-| Product engineering | AI & agent infrastructure | Applied machine learning |
-| --- | --- | --- |
-| Accessible, user-centered interfaces with TypeScript, React, Next.js, and SvelteKit. | Local-first developer tools, MCP integrations, agent memory, and context systems. | Python, NLP, model evaluation, and data-driven workflows built for practical outcomes. |
+- **Product engineering** — Accessible, user-centered interfaces with TypeScript, React, Next.js, and SvelteKit.
+- **AI & agent infrastructure** — Local-first developer tools, MCP integrations, agent memory, and context systems.
+- **Applied machine learning** — Python, NLP, model evaluation, and data-driven workflows built for practical outcomes.
 
 ## Selected work
 

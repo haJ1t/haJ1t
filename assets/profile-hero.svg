@@ -110,7 +110,7 @@
   </g>
   <g><rect x="770" y="365" width="240" height="90" rx="13" fill="url(#glass)" stroke="#315A6D"/>
     <path d="M770 378V365H783" fill="none" stroke="#7DD3A8"/>
-    <text x="808" y="392" font-size="22" fill="#7DD3A8">04 / VERIFY</text><text x="808" y="424" font-size="22" fill="#D0E0E8">Coverage &amp; proof</text>
+    <text x="788" y="392" font-size="22" fill="#7DD3A8">04 / VERIFY</text><text x="788" y="424" font-size="22" fill="#D0E0E8">Coverage &amp; proof</text>
     <path d="M808 444H840M852 444H884M896 444H928" stroke="#375569" stroke-width="5"/>
     <path d="M808 444H832M852 444H876M896 444H920" stroke="#7DD3A8" stroke-width="5"/>
     <path d="M944 442L949 447L958 437" fill="none" stroke="#7DD3A8" stroke-width="1.5"/>

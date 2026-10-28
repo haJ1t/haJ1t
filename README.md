@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
-    <img src="assets/profile-hero.svg" alt="Halit Ozger — AI Engineer at VerifyWise and Full Stack Developer. Engineering systems that make AI accountable.">
+    <source media="(max-width: 1200px)" srcset="assets/profile-hero-mobile.svg 600w" sizes="600px">
+    <img src="assets/profile-hero.svg" srcset="assets/profile-hero.svg 1440w" sizes="100vw" alt="Halit Ozger — AI Engineer at VerifyWise and Full Stack Developer. Engineering systems that make AI accountable.">
   </picture>
 </p>
 

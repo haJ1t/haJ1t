@@ -6,11 +6,6 @@
 </p>
 
 <p align="center">
-  <strong>AI Engineer at VerifyWise · Full Stack Developer</strong><br>
-  Engineering systems that make AI accountable—through governance, evaluation, agent-native infrastructure, and reliable products.
-</p>
-
-<p align="center">
   <a href="https://www.haj1t.com/">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/halit-ozger-72094a20a/">LinkedIn</a>
